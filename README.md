@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 <div>
 
-<div align="center">
+<div align="center" width="100%">
   <a href="https://github.com/lucassilvasouzaD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassilvasouzaD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvasouzaD&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucassilvasouzaD&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvasouzaD&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
