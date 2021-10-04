@@ -1,6 +1,7 @@
 ### Olá! me chamo Lucas 👋
 
-Estudante de Ciência da Computação com previsão de término em 2025, Iniciei nesse mundo de programação aos 16 anos, comecei trabalhando em uma empresa de logística desenvolvendo projetos que tinham objetivo de gerenciar equipamentos, tarefas indevidas, 5s, schedulling e colaboradores.
+Estudante de Ciência da Computação com previsão de término em 2025, Iniciei nesse mundo de programação aos 16 anos.
+Começei trabalhando em uma empresa de logística desenvolvendo projetos que tinham objetivo de gerenciar equipamentos, tarefas indevidas, 5s, schedulling e colaboradores.
 
 buscando sempre desenvolver o código de qualidade e telas focadas em trazer a melhor experiência do usuário...
 
