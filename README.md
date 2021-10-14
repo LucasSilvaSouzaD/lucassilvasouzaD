@@ -17,12 +17,6 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 - 🌱 Estudando JavaScript
 
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassilvasouzaD&theme=nord_bright"/>
-
 ### Banco de dados
 <p align="left">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL">
@@ -44,4 +38,11 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 </p>
   
 ##
+
+
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassilvasouzaD&theme=nord_bright"/>
 
