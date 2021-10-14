@@ -10,6 +10,7 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 
 <div> 
   <a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+   <a href="https://www.hackerrank.com/learner_ls" target="_blank"><img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 <div>
 
 
