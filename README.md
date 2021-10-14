@@ -1,4 +1,12 @@
-### Olá! me chamo Lucas 👋
+<h2>Olá! me chamo Lucas 👋</h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4/" target="_blank" alt="Linkedin" title="Linkedin">
+ <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
+
+<a href="https://www.hackerrank.com/learner_ls" target="_blank" alt="HackerRank" title="HackerRank">
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
+</p>
 
 Estudante de Ciência da Computação com previsão de término em 2025, Iniciei nesse mundo de programação aos 16 anos.
 Começei trabalhando em uma empresa de logística desenvolvendo projetos que tinham objetivo de gerenciar equipamentos, tarefas indevidas, 5s, schedulling e colaboradores.
@@ -7,24 +15,14 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 
 - 🔭 Atualmente trabalho desenvolvendo aplicativos web para uma operação lógistica.
 - 🌱 Estudando JavaScript
-<div>
-<a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4/" target="_blank" alt="Linkedin" title="Linkedin">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
 
-<a href="https://www.hackerrank.com/learner_ls" target="_blank" alt="HackerRank" title="HackerRank">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
- </a>
-</div>
 
-<div>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/>  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/> 
-</div>
-<br/>
- <br/><br/><br/><br/><br/><br/><br/>
-  
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassilvasouzaD&theme=nord_bright"/>
-  
+
 ### Banco de dados
 <p align="left">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL">
