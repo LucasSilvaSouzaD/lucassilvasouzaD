@@ -1,7 +1,7 @@
 <h2>Olá! me chamo Lucas 👋</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4/" target="_blank" alt="Linkedin" title="Linkedin">
+<a href="https://www.linkedin.com/in/lucassilvasouzad/" target="_blank" alt="Linkedin" title="Linkedin">
  <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
 
 <a href="https://www.hackerrank.com/learner_ls" target="_blank" alt="HackerRank" title="HackerRank">
