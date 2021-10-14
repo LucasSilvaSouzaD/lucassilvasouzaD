@@ -17,6 +17,8 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
+  
+  
 <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassilvasouzaD&theme=nord_bright"/>
   
 ### Banco de dados
