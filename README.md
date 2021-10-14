@@ -9,8 +9,11 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 - 🌱 Estudando JavaScript
 
 <p align="left">
+
+
 <a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4/" target="_blank" alt="Linkedin" title="Linkedin">
- <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
 <a href="https://www.hackerrank.com/learner_ls" target="_blank" alt="HackerRank" title="HackerRank">
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
