@@ -7,6 +7,7 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 
 - 🔭 Atualmente trabalho desenvolvendo aplicativos web para uma operação lógistica.
 - 🌱 Estudando JavaScript
+
 <div>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-silva-souza-a985361a4/" target="_blank" alt="Linkedin" title="Linkedin">
@@ -17,8 +18,9 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 </div>
-<br>
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/>  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
+
+<br/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/>  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/> 
 
 <br/>
  <br/><br/><br/><br/><br/><br/><br/>
