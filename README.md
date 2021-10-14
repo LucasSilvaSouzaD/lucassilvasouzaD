@@ -13,7 +13,7 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 <div>
 
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="josemateuscamargo"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/>  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -32,11 +32,11 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
   
 ### Ferramentas
  <p align="left">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="mysql" title="MySQL">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="NodeJS">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="React">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" title="HTML5">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" title="CSS3">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="css3" title="CSS3">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap">
 </p>
   
 ##
