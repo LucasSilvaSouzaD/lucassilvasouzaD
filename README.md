@@ -16,17 +16,19 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
 - 🔭 Atualmente trabalho desenvolvendo aplicativos web para uma operação lógistica.
 - 🌱 Estudando JavaScript
 
+ 
+### Linguagens 
+<p align="left">
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">
+</p>
+
 
 ### Banco de dados
 <p align="left">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL">
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mariadb" title="Postgressql">
 </p>
- 
-### Linguagens 
-<p align="left">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">
-</p>
+
   
 ### Ferramentas
  <p align="left">
