@@ -17,8 +17,9 @@ buscando sempre desenvolver o código de qualidade e telas focadas em trazer a m
  </a>
 </div>
 
+<div>
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/>  <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/> 
-
+</div>
 <br/>
  <br/><br/><br/><br/><br/><br/><br/>
   
