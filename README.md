@@ -12,7 +12,7 @@ Estudante de Ciência da Computação com previsão de término em 2025, Iniciei
 
 buscando sempre desenvolver o código de qualidade e telas focadas em trazer a melhor experiência do usuário...
 
-🔭 Atualmente trabalho na JBQ.Global
+🔭 Atualmente trabalho na JBQ.Global </br>
 🌱 Estudando JavaScript
 
  
