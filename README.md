@@ -8,9 +8,8 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
 </p>
 
-Estudante de Ciência da Computação com previsão de término em 2025, Iniciei nesse mundo de programação aos 16 anos. Comecei trabalhando em uma empresa de logística desenvolvendo projetos que tinham objetivo de gerenciar equipamentos, tarefas indevidas, 5s, Schedulling e colaboradores.
-
-buscando sempre desenvolver o código de qualidade e telas focadas em trazer a melhor experiência do usuário...
+Sou curioso por tecnologia, com vontade de aprendizado constante.
+Iniciei com 16 anos em um empresa de logística com pequenos desafios até projetos complexos, atualmente estou cursando Ciência da Computação com previsão de término em 2025.
 
 🔭 Atualmente trabalho na JBQ.Global </br>
 🌱 Estudando JavaScript
