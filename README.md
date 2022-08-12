@@ -11,8 +11,7 @@
 Sou curioso por tecnologia, com vontade de aprendizado constante.
 Iniciei com 16 anos em um empresa de logística com pequenos desafios até projetos complexos, atualmente estou cursando Ciência da Computação com previsão de término em 2025.
 
-🔭 Atualmente trabalho na JBQ.Global </br>
-🌱 Estudando JavaScript
+🌱 Especializando-se em Javascript
 
  
 ### Linguagens 
