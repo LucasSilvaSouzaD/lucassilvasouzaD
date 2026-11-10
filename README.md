@@ -1,45 +1,25 @@
-<h2>Olá! me chamo Lucas 👋</h2>
+<div align="center">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lucassilvasouzad/" target="_blank" alt="Linkedin" title="Linkedin">
- <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg"></a>
+# Olá, eu sou o Lucas 👋
 
-<a href="https://www.hackerrank.com/learner_ls" target="_blank" alt="HackerRank" title="HackerRank">
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg"></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+JBQ.Global;Node.js+%C2%B7+TypeScript+%C2%B7+React;E-commerce%2C+integra%C3%A7%C3%B5es+e+IA+aplicada" alt="Typing SVG" />
 
-Sou curioso por tecnologia, com vontade de aprendizado constante.
-Iniciei com 16 anos em um empresa de logística com pequenos desafios até projetos complexos, atualmente estou cursando Ciência da Computação com previsão de término em 2025.
+<a href="https://www.linkedin.com/in/lucas-souza-a985361a4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lucassilvadonato23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
- 
-### Linguagens 
-<p align="left">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" title="JavaScript">
-</p>
+</div>
 
+Engenheiro de Software com **7+ anos de experiência**. Na **JBQ.Global** desenvolvo e-commerces B2B e B2C de marcas como **iPlace, Osklen, China in Box e Salon Line**, com Oracle Commerce Cloud e integrações com ERPs e sistemas legados.
 
-### Banco de dados
-<p align="left">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="mariadb" title="Postgressql">
-</p>
+- 🧱 Microsserviços, mensageria, DDD e design patterns
+- 🤖 Engenharia com IA: LLMs, MCP Servers e workflows multiagente
+- 💡 Criando SaaS próprios: **Churcon** (gestão de igrejas) e **Estepcon** (setor automotivo)
 
-  
-### Ferramentas
- <p align="left">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="NodeJS">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="React">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" title="HTML5">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" title="CSS3">
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap">
-</p>
-  
-##
+### 🛠️ Stack
 
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,react,nextjs,postgres,mysql,redis,kafka,prisma,docker,aws,azure,githubactions&perline=15" alt="Stack" />
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassilvasouzaD&show_icons=true&locale=en&layout=compact"       alt="lucassilvasouza"/> <img height="180em" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucassilvasouzaD&theme=nord_bright"/>  
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-<img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucassilvasouzaD&theme=nord_bright"/>
-
+<div align="center">
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasSilvaSouzaD&theme=github_dark" alt="Estatísticas" />
+  <img height="160" src="https://streak-stats.demolab.com?user=LucasSilvaSouzaD&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência" />
+</div>
